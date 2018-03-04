@@ -1,5 +1,6 @@
 # CleverCashier
 
+Created by Geoffrey Wukelic, Travis Pittman, and Braden Sunwold during CrimsonCode 2018
 Updated: 3/4/2018
 
 The drive thru system is archaic. We think the system could be improved by
